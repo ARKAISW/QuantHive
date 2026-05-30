@@ -3,7 +3,11 @@
 [![OpenEnv](https://img.shields.io/badge/Environment-OpenEnv-blue.svg?style=for-the-badge)](https://github.com/meta-pytorch/OpenEnv)
 [![Framework](https://img.shields.io/badge/Framework-Gymnasium-green.svg?style=for-the-badge)](https://gymnasium.farama.org/)
 [![Base Model](https://img.shields.io/badge/Base%20Model-Qwen%202.5--1.5B-purple.svg?style=for-the-badge)](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
+[![Live Space](https://img.shields.io/badge/🚀%20Live%20Space-Hugging%20Face-yellow.svg?style=for-the-badge)](https://huggingface.co/spaces/ARKAISW/QuantHive)
 [![Theme](https://img.shields.io/badge/Theme-Scalable%20Oversight-orange.svg?style=for-the-badge)](https://hackathon.openenv.org)
+
+> 🚀 **Live Interactive Demo:** Experience the autonomous agent simulation live on the [QuantHive Hugging Face Space](https://huggingface.co/spaces/ARKAISW/QuantHive).
+
 
 QuantHive V1 is a state-of-the-art **autonomous financial agent trading system** that leverages local fine-tuned causal language models and reinforcement learning (RL) alignment to execute trades under dynamic risk constraints. The core architecture bridges high-performance quantitative trading simulations with structured Chain-of-Thought (CoT) semantic reasoning, audited by an adversarial **LLM Judge**.
 
