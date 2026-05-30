@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+ui/node_modules/
+dist/
+ui/dist/
+.pytest_cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+
+# Local/nested repos and comparison scripts
+QuantHive/
+compare.py
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
